@@ -8,7 +8,7 @@
     "start": "python -m http.server 8000"
   },
   "keywords": ["love", "terminal", "heart", "romantic"],
-  "author": "Sandreke",
+  "author": "SamPijar",
   "license": "MIT"
 }
 
