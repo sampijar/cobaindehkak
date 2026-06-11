@@ -1,7 +1,7 @@
 {
   "name": "love-terminal",
   "version": "1.0.0",
-  "description": "Love Terminal by Sandreke - Create hearts with letters",
+  "description": "Love Terminal by SamPijar - Create hearts with letters",
   "main": "index.html",
   "scripts": {
     "dev": "python -m http.server 8000",
